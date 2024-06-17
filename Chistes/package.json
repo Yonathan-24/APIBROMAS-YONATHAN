@@ -1,0 +1,14 @@
+{
+  "name": "chistes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor/servidor.js",
+  "scripts": {
+    "start": "node servidor/servidor.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.13.0"
+  }
+}
